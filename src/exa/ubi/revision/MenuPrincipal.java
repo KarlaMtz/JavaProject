@@ -7,7 +7,8 @@ public class MenuPrincipal {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		MenuPrincipal objMain = new MenuPrincipal();
+		objMain.mostrarMenu();
 	}
 
 	public void mostrarMenu(){
@@ -32,32 +33,40 @@ public class MenuPrincipal {
 	// Dependiendo de la opción elegida por el usuario se llevará a cabo una acción u otra
 	public void ejecutarAccion(String accion){
 		MenuPrincipal objEjec = new MenuPrincipal();
-
+		Kids kids=new Kids();
+		Teens teens=new Teens();
+		Youth youth=new Youth();
+		Conversation conv=new Conversation();
+		
+		
 		accion = accion.toUpperCase();	// Me aseguro de convertir las cadenas a mayúsculas
 
 		switch (accion) {
 		case "1":
-
+			kids.revisar_kids();
 			objEjec.mostrarMenu();
 			break;
 		case "2":
+			teens.revisar_teens();
 			objEjec.mostrarMenu();
 			break;
 		case "3":
+			youth.revisar_youth();
 			objEjec.mostrarMenu();
 			break;
 		case "4":
+			conv.revisar_conv();
 			objEjec.mostrarMenu();
 			break;
 		case "X":
 			// Antes de salir cierro el objeto de tipo Scanner sc
-			System.out.println("Adios.");
+			System.out.println("Hasta luego");
 			sc.close();
 			System.exit(0);
 			break;
 		default:
 			// Si el usuario introduce una opción no contemplada muestro un mensaje de error
-			System.out.println("Error: opcion no reconocida.\n");
+			System.out.println("OPCIÓN NO VÁLIDA, ELIJA OTRA.\n");
 			objEjec.mostrarMenu();
 		}
 	}
