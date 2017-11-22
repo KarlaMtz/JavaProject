@@ -13,7 +13,7 @@ public class Teens {
 		
 		if (cp>0 && cp<=10) {
 		for(int i=0;i<cp;i++) {
-			System.out.print("Inserte el numero de la pregunta correcta");
+			System.out.print("Inserte el número de la pregunta correcta");
 			System.out.print("\n -> ");
 			lista[i]=sc.nextInt();
 		}
