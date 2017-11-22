@@ -20,5 +20,7 @@ REQUERIMIENTOS
 https://github.com/KarlaMtz/JavaProject/wiki
 
 INSTALACIÓN
+https://github.com/KarlaMtz/JavaProject/wiki/Instalaci%C3%B3n
 
 CONFIGURACIÓN
+https://github.com/KarlaMtz/JavaProject/wiki/Configuraci%C3%B3n
