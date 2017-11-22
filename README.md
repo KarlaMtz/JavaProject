@@ -15,7 +15,9 @@ aplicador ingresará las preguntas correctas según el número del mismo y se su
 Arquitectura: https://drive.google.com/open?id=1BDBb0yt7yOKZ7kWweeI_plOMPXCPQW_Q
 
 TABLA DE CONTENIDOS
+
 REQUERIMIENTOS
+https://github.com/KarlaMtz/JavaProject/wiki
 
 INSTALACIÓN
 
