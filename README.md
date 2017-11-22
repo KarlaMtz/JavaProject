@@ -17,10 +17,19 @@ Arquitectura: https://drive.google.com/open?id=1BDBb0yt7yOKZ7kWweeI_plOMPXCPQW_Q
 TABLA DE CONTENIDOS
 
 REQUERIMIENTOS
-https://github.com/KarlaMtz/JavaProject/wiki
+https://github.com/KarlaMtz/JavaProject/wiki/Requerimientos
 
 INSTALACIÓN
 https://github.com/KarlaMtz/JavaProject/wiki/Instalaci%C3%B3n
 
 CONFIGURACIÓN
 https://github.com/KarlaMtz/JavaProject/wiki/Configuraci%C3%B3n
+
+USO
+https://github.com/KarlaMtz/JavaProject/wiki/Uso
+
+CONTRIBUCIÓN
+https://github.com/KarlaMtz/JavaProject/wiki/Contribuci%C3%B3n
+
+ROADMAP
+https://github.com/KarlaMtz/JavaProject/wiki/Roadmap
