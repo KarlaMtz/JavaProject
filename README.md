@@ -29,7 +29,7 @@ USO
 https://github.com/KarlaMtz/JavaProject/wiki/Uso
 
 CONTRIBUCIÓN
-https://github.com/KarlaMtz/JavaProject/wiki/Contribuci%C3%B3n
+https://gist.github.com/juanghurtado/7a819d4f07619e944b56
 
 ROADMAP
 https://github.com/KarlaMtz/JavaProject/wiki/Roadmap
